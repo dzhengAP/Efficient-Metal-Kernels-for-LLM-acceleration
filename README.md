@@ -1,6 +1,6 @@
 # metal-llm
 
-> Karpathy-style Metal compute kernels for LLM inference on Apple Silicon.
+>Metal compute kernels for LLM inference on Apple Silicon.
 
 One file per concept. No magic. If you can read it in 5 minutes, it's simple enough.
 
